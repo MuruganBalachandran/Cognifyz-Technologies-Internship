@@ -43,6 +43,6 @@ Welcome to the Cognifyz Restaurant Intelligence project! This repository contain
 
 To run the code for each task, follow the instructions in the respective task's directory.
 
-## Contributors
+## Contributor
 
 Murugan B
